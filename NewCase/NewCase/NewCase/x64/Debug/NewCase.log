@@ -1,0 +1,62 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\Users\HP\Desktop\NewCase\NewCase\NewCase>"F:\NVIDIAGPUComputingTools\CUDA\10.2\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env -ccbin "F:\VS2019\VC\Tools\MSVC\14.23.28105\bin\HostX86\x64" -x cu  -IF:\NVIDIAGPUComputingTools\CUDA\10.2\include -IF:\NVIDIAGPUComputingTools\CUDA\10.2\include  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "D:\Users\HP\Desktop\NewCase\NewCase\NewCase\kernel.cu" 
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:/Users/HP/Desktop/NewCase/NewCase/NewCase/kernel.cu(278): warning : initial value of reference to non-const must be an lvalue
+  
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\sm_20_intrinsics.h(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\sm_20_intrinsics.h(926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\NVIDIAGPUComputingTools\CUDA\10.2\include\cuda_runtime_api.h(9349): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:/Users/HP/Desktop/NewCase/NewCase/NewCase/kernel.cu(278): warning : initial value of reference to non-const must be an lvalue
+  
+  kernel.cu
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(167): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(177): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(337): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(342): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(347): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(491): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(496): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\Desktop\NewCase\NewCase\NewCase\helperMath.h(501): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:/Users/HP/Desktop/NewCase/NewCase/NewCase/kernel.cu(323): warning C4305: “初始化”: 从“double”到“float”截断
+  NewCase.vcxproj -> D:\Users\HP\Desktop\NewCase\NewCase\x64\Debug\NewCase.exe
